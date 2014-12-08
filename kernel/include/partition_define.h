@@ -47,7 +47,7 @@
 #define PART_SIZE_DSP_BL			(5888*KB)
 #define PART_SIZE_MBR			(16*KB)
 #define PART_SIZE_EBR1			(16*KB)
-#define PART_MISC2 "MISC2" 
+#define PART_MISC2 "MISC2"              (8192*KB)
 #define PART_SIZE_PMT			(4096*KB)
 #define PART_SIZE_NVRAM			(5120*KB)
 #define PART_SIZE_SECCFG			(128*KB)
